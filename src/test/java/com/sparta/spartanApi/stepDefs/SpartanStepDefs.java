@@ -1,6 +1,5 @@
 package com.sparta.spartanApi.stepDefs;
 
-import com.sparta.spartanApi.AppConfig;
 import com.sparta.spartanApi.pojos.Spartan;
 import com.sparta.spartanApi.pojos.SpartanDTO;
 import com.sparta.spartanApi.utilities.SpartanUtils;
