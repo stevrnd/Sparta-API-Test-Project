@@ -1,0 +1,32 @@
+{
+  "id": 2,
+  "firstName": "John",
+  "lastName": "Lennon",
+  "university": "Liverpool Hope University",
+  "degree": "Songwriting and Composition",
+  "course": "TECH 301",
+  "stream": "Java Dev",
+  "graduated": false,
+  "links": [
+    {
+      "href": "/api/Spartans/2",
+      "rel": "self",
+      "method": "GET"
+    },
+    {
+      "href": "/api/Spartans/2",
+      "rel": "update_spartan",
+      "method": "PUT"
+    },
+    {
+      "href": "/api/Spartans/2",
+      "rel": "delete_spartan",
+      "method": "DELETE"
+    },
+    {
+      "href": "/api/Courses/2",
+      "rel": "course",
+      "method": "GET"
+    }
+  ]
+}

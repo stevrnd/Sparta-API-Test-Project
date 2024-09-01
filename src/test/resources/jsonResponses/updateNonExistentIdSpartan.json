@@ -1,0 +1,25 @@
+{
+  "id": 999,
+  "firstName": "Jameson",
+  "lastName": "Greene",
+  "university": "University of East Anglia",
+  "degree": "Computer Science",
+  "course": {
+    "id": 0,
+    "name": "Tech 260",
+    "stream": {
+      "id": 0,
+      "name": "Test Automation",
+      "courses": [
+      ]
+    },
+    "streamId": 1,
+    "trainer": "Nish Mandal",
+    "startDate": "2024-08-27T17:48:30.222Z",
+    "endDate": "2024-08-27T17:48:30.222Z",
+    "spartans": [
+    ]
+  },
+  "courseId": 0,
+  "graduated": true
+}
