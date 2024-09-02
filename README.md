@@ -1,5 +1,5 @@
 # What It Does
-This project's aim is to deliver a test framework for the PetStore API - https://petstore3.swagger.io/. It covers a range of endpoints including all CRUD operations, tests also cover happy and sad paths. Please refer to our project board below for further information: 
+This project aims to deliver a test framework for the [Spartan API](https://spartaacademyapi20240530152521.azurewebsites.net/swagger/index.html). It covers a range of endpoints including all CRUD operations, tests also cover happy and sad paths. Please refer to the project board for further information: 
 
 # Setup Notes
 Clone this repo to your IDE and install dependencies listed in pom.xml.
